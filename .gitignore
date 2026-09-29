@@ -1,0 +1,8 @@
+# Real bot credentials — NEVER commit these.
+telegram-notify.json
+.env
+.env.*
+
+node_modules/
+*.log
+.DS_Store
